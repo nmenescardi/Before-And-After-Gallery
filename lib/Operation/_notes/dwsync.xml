@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AddNoise.php" server="ftp.ord1-1.websitesettings.com" local="130087782000000000" remote="130087782000000000" />
+<file name="ApplyConvolution.php" server="ftp.ord1-1.websitesettings.com" local="130087782000000000" remote="130087782000000000" />
+<file name="ApplyFilter.php" server="ftp.ord1-1.websitesettings.com" local="130087782000000000" remote="130087782000000000" />
+<file name="ApplyMask.php" server="ftp.ord1-1.websitesettings.com" local="130087782000000000" remote="130087782000000000" />
+<file name="AsGrayscale.php" server="ftp.ord1-1.websitesettings.com" local="130087782000000000" remote="130087782000000000" />
+<file name="AsNegative.php" server="ftp.ord1-1.websitesettings.com" local="130087782000000000" remote="130087782000000000" />
+<file name="AutoCrop.php" server="ftp.ord1-1.websitesettings.com" local="130087782000000000" remote="130087782000000000" />
+<file name="CopyChannelsPalette.php" server="ftp.ord1-1.websitesettings.com" local="130087782000000000" remote="130087782000000000" />
+<file name="CopyChannelsTrueColor.php" server="ftp.ord1-1.websitesettings.com" local="130087782000000000" remote="130087782000000000" />
+<file name="CorrectGamma.php" server="ftp.ord1-1.websitesettings.com" local="130087782000000000" remote="130087782000000000" />
+<file name="Crop.php" server="ftp.ord1-1.websitesettings.com" local="130087782000000000" remote="130087782000000000" />
+<file name="Flip.php" server="ftp.ord1-1.websitesettings.com" local="130087782000000000" remote="130087782000000000" />
+<file name="GetMask.php" server="ftp.ord1-1.websitesettings.com" local="130087782000000000" remote="130087782000000000" />
+<file name="Merge.php" server="ftp.ord1-1.websitesettings.com" local="130087782000000000" remote="130087782000000000" />
+<file name="Mirror.php" server="ftp.ord1-1.websitesettings.com" local="130087782000000000" remote="130087782000000000" />
+<file name="Resize.php" server="ftp.ord1-1.websitesettings.com" local="130087782000000000" remote="130087782000000000" />
+<file name="ResizeCanvas.php" server="ftp.ord1-1.websitesettings.com" local="130087782000000000" remote="130087782000000000" />
+<file name="Rotate.php" server="ftp.ord1-1.websitesettings.com" local="130087782000000000" remote="130087782000000000" />
+<file name="RoundCorners.php" server="ftp.ord1-1.websitesettings.com" local="130087782000000000" remote="130087782000000000" />
+<file name="Unsharp.php" server="ftp.ord1-1.websitesettings.com" local="130087782000000000" remote="130087782000000000" />
+</dwsync>
